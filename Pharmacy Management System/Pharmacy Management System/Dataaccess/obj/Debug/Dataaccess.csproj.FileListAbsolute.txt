@@ -1,0 +1,6 @@
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Dataaccess\bin\Debug\Dataaccess.dll
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Dataaccess\bin\Debug\Dataaccess.pdb
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Dataaccess\obj\Debug\Dataaccess.csproj.AssemblyReference.cache
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Dataaccess\obj\Debug\Dataaccess.csproj.CoreCompileInputs.cache
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Dataaccess\obj\Debug\Dataaccess.dll
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Dataaccess\obj\Debug\Dataaccess.pdb

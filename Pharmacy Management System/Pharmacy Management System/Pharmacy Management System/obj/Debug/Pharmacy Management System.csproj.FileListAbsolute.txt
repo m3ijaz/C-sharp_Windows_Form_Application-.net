@@ -1,0 +1,17 @@
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.AssemblyReference.cache
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Admin.resources
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Form1.resources
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Properties.Resources.resources
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.GenerateResource.cache
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CoreCompileInputs.cache
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.PMS_Dashbord.resources
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.PMS_AddUser.resources
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.PMS_ViewUser.resources
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\bin\Debug\Dataaccess.dll
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\bin\Debug\Dataaccess.pdb
+C:\Users\IJAZ\Desktop\Pharmacy Management System\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.csproj.CopyComplete
